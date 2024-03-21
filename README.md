@@ -19,7 +19,7 @@ Game Features:
 > All necessary libraries that require installation are stored in the requirements.txt file.
 
 > [!NOTE]
-> This code ran and worked correctly on Windows 10.
+> This code ran and worked correctly on Windows 10 and Python version 3.12.1
 
 ---------------
 
@@ -42,4 +42,4 @@ Caractéristiques de jeu:
 > Toutes les bibliothèques nécessaires qui nécessitent une installation sont stockées dans le fichier requirements.txt
 
 > [!NOTE]
-> Ce code s'est exécuté et a fonctionné correctement sous Windows 10
+> Ce code s'est exécuté et a fonctionné correctement sous Windows 10 et Python version 3.12.1
